@@ -1,0 +1,5 @@
+# JobRadar dependencies
+requests>=2.31.0         # HTTP calls to Greenhouse/Lever APIs
+anthropic>=0.25.0        # Step 2: LLM scoring
+streamlit>=1.35.0        # Step 5: dashboard
+pandas>=2.0.0            # Step 5: dashboard data handling
